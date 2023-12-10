@@ -7,7 +7,7 @@
 
 💞 I’m eager to collaborate on exciting web application projects.
 
-📫 You can reach me at [hiiamsujith@outlook.com](mailto:hiiamsujith@outlook.com) or [mailto:](hiiamsujith@gmail.com)
+📫 You can reach me at [hiiamsujith@outlook.com](mailto:hiiamsujith@outlook.com) or [hiiamsujith@gmai.com](mailto:hiiamsujith@gmail.com)
 
 <!---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-sujith&show_icons=true&hide=contribs,issues)](https://github.com/i-am-sujith)
